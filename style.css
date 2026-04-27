@@ -1,0 +1,16 @@
+body {
+    background-color: #141428;
+    color: yellow;
+    font-family: "Limelight", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+button {
+    background-color: #55557d;
+    color: white;
+    font-family: "Limelight", sans-serif;
+}
